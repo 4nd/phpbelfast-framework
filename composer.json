@@ -1,0 +1,14 @@
+{
+    "require": {
+        "slim/slim": "2.*",
+        "slim/views": "*",
+        "4nd/smarty": "3.*",
+        "gabordemooij/redbean": "*",
+        "fzaninotto/faker": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "PhpBelfast\\": "PhpBelfast"
+        }
+    }
+}
