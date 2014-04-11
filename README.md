@@ -12,9 +12,22 @@ Clone the repository into a folder and run `composer install`.  This will get th
 Database connection details are in the setup.php, edit the line to fit your config
 `R::setup("mysql:host=localhost;dbname=<database>", '<username>', '<password>');`
 
-I've added a .htaccess file for putting the site on an apache based server.  For more info see the docs at
-http://docs.slimframework.com/#Route-URL-Rewriting
+I've added a .htaccess file for putting the site on an apache based server.  
 
+For more help see the docs at
+SlimFramework - http://docs.slimframework.com/
+https://github.com/codeguy/Slim and https://github.com/codeguy/Slim-Views
+
+Smarty - http://www.smarty.net/
+
+RedbeanPHP - http://redbeanphp.com/
+
+Faker - https://github.com/fzaninotto/Faker
+
+
+Enjoy!
+
+Any questions feel free to drop me a tweet @4nd and I'll do my best to help.
 
 
 
