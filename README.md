@@ -12,6 +12,8 @@ Clone the repository into a folder and run `composer install`.  This will get th
 Database connection details are in the setup.php, edit the line to fit your config
 `R::setup("mysql:host=localhost;dbname=<database>", '<username>', '<password>');`
 
+To run the built-in PHP server (PHP v5.4+ only) use `php -S localhost:8000 -t <path-to-public-folder>`
+
 I've added a .htaccess file for putting the site on an apache based server.  
 
 For more help see the docs at:
