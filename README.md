@@ -14,9 +14,11 @@ Database connection details are in the setup.php, edit the line to fit your conf
 
 I've added a .htaccess file for putting the site on an apache based server.  
 
-For more help see the docs at
-SlimFramework - http://docs.slimframework.com/
-https://github.com/codeguy/Slim and https://github.com/codeguy/Slim-Views
+For more help see the docs at:
+
+SlimFramework - http://docs.slimframework.com/ and https://github.com/codeguy/Slim 
+
+Slim Views - https://github.com/codeguy/Slim-Views
 
 Smarty - http://www.smarty.net/
 
