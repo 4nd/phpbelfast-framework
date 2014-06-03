@@ -19,6 +19,7 @@ if(file_exists(__DIR__.'/.env.php')) {
     foreach($env as $var => $val) {
         $_ENV[$var] = $val;
         $_SERVER[$var] = $val;
+        putenv("{$var}={$val}");
     }
 }
 
